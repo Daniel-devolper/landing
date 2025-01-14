@@ -31,3 +31,16 @@ body {
     text-wrap: balance;
   }
 }
+
+.image-vector{
+  background-image: url("/Vector.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: -20px top;
+}
+
+.scroll-custom{
+  scrollbar-color: #5E5E5E #2C2C2C;
+  scrollbar-width: thin;
+  
+}
